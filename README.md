@@ -1,8 +1,6 @@
-<h1 align="center">
-<img src="smedi-logo.png" alt="SMEdi logo" display="inline-block" />
-SMEdi -- The Sitemap Editor
-</h1>
-
+![SMEdi logo](smedi-logo.png)
+# SMEdi -- The Sitemap Editor
+=============================
 
 Coming soon...A web application solution to creating XML sitemaps.
 
