@@ -1,6 +1,5 @@
 ![SMEdi logo](smedi-logo.png)
 # SMEdi -- The Sitemap Editor
-=============================
 
 Coming soon...A web application solution to creating XML sitemaps.
 
