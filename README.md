@@ -48,6 +48,6 @@ No, not really, but it couldn't hurt.
 
 ## Changelog
 
-#### 1.0
-* Start version.
+#### 0.1
+* Start Pre-alpha version.
 
