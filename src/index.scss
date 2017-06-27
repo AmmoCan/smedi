@@ -1,0 +1,33 @@
+/*
+  Main Styles
+  -----------
+  Main styles and settings for SeedularJS are stored here. This file must always
+  be present, no matter what.
+*/
+
+/**
+ *  The import of foundation _settings from:
+ *  /bower_components/angular-base-apps/scss/
+ */
+@import 'settings';
+
+/**
+ *  Do not remove the comments below. It's the markers used by wiredep to inject
+ *  sass dependencies when defined in the bower.json of your dependencies
+ */
+// bower:scss
+// endbower
+
+/**
+ *  Add custom styles below
+ */
+body {
+  background-color: $gray-dark;
+}
+
+/**
+ *  Do not remove the comments below. It's the markers used by gulp-inject to
+ *  inject all your sass files automatically
+ */
+/* inject:scss */
+/* endinject */

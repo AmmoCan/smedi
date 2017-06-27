@@ -1,0 +1,46 @@
+<nav id="mainmenu" class="block-list" role="menu">
+  <ul class="grid-content">
+    <ba-accordion auto-open="false">
+      <ba-accordion-item title="File">
+        <ba-accordion auto-open="false">
+          <ba-accordion-item title="Open">
+            <li><sme-open-file></sme-open-file></li>
+            <li><sme-open-url></sme-open-url></li>
+          </ba-accordion-item>
+        </ba-accordion>
+        <li><sme-action data-action="Close">Close</sme-action></li>
+        <li><sme-action data-action="Save">Save</sme-action></li>
+      </ba-accordion-item>
+      <ba-accordion-item title="Edit">
+        <li><sme-action data-action="Undo">Undo</sme-action></li>
+        <li><sme-action data-action="Cut">Cut</sme-action></li>
+        <li><sme-action data-action="Copy">Copy</sme-action></li>
+        <li><sme-action data-action="Paste">Paste</sme-action></li>
+      </ba-accordion-item>
+      <ba-accordion-item title="Insert">
+        <ba-accordion auto-open="false">
+          <ba-accordion-item title="Page">
+            <li><a ng-drag="page/page" href="#">Page</a></li>
+            <li><a ng-drag="page/loc" href="#">Location</a></li>
+            <li><a ng-drag="page/lastmod" href="#">Last Mod.</a></li>
+            <li><a ng-drag="page/changefreq" href="#">Change Freq.</a></li>
+            <li><a ng-drag="page/priority" href="#">Priority</a></li>
+          </ba-accordion-item>
+          <ba-accordion-item title="Image">
+            <li><a href="#">Page</a></li>
+            <li><a href="#">Location</a></li>
+            <li><a href="#">Caption</a></li>
+            <li><a href="#">Geo. Location</a></li>
+            <li><a href="#">Title</a></li>
+            <li><a href="#">License</a></li>
+          </ba-accordion-item>
+          <ba-accordion-item title="Video">
+            <li><a href="#">Something-1</a></li>
+            <li><a href="#">Something-2</a></li>
+            <li><a href="#">Something-3</a></li>
+          </ba-accordion-item>
+        </ba-accordion>
+      </ba-accordion-item>
+    </ba-accordion>
+  </ul>
+</nav>

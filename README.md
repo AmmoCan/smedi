@@ -3,10 +3,9 @@
 
 Coming soon...A web application solution to creating XML sitemaps.
 
-
 ## Description
 
-SMEdi is a sitemap editor web application powered by Zurb's Foundation for Apps and AngularJS. It effectively and efficiently allows a user to generate a compliant XML sitemap for their website to be used by search engines such as Google, Bing, Yahoo, etc.
+SMEdi is a sitemap editor web application powered by Angular Base Apps and AngularJS. It effectively and efficiently allows a user to generate a compliant XML sitemap for their website to be used by search engines such as Google, Bing, Yahoo, etc.
 
 ### Requirements:
   * Have a website and a Google Search Console/Webmaster Tools account.
@@ -21,7 +20,7 @@ You will need to install this manually:
 3. Enjoy!
 
 ## Resources
-* [Foundation For Apps](http://foundation.zurb.com/apps.html)
+* [Angular Base Apps](http://base-apps.github.io/angular-base-apps/latest/#!/)
 * [AngularJS](https://angularjs.org/)
 
 ## Frequently Asked Questions
@@ -35,11 +34,7 @@ No, not really, but it couldn't hurt.
 
 ## Screenshots
 
-1. What SMEdi looks like.
-![What it looks like selecting the 'Testimonials' menu in the admin menu](screenshot-1.png)
-
-2. What the menu looks like.
-![What it looks like after selecting the 'Add New' sub-menu](screenshot-2.png)
+Coming Soon!
 
 ## Contributors
 * [Ammo](http://www.linkedin.com/in/ammocan)
@@ -48,6 +43,7 @@ No, not really, but it couldn't hurt.
 
 ## Changelog
 
+#### 0.2
+* Starting the conversion away from Foundation for Apps and AngularJS < v1.6.x
 #### 0.1
 * Start Pre-alpha version.
-
